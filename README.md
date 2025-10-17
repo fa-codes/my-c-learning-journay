@@ -1,1 +1,1 @@
-# my-c-learning-journay
+# my-c-learning-journey
